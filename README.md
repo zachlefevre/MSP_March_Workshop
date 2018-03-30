@@ -18,6 +18,12 @@ conda install jupyter
 ```
 conda install matplotlib
 ```
+```
+conda install pillow
+```
+```
+conda update --all
+```
 When everything is finished installing, run
 ```
 git clone https://github.com/zachlefevre/MSP_March_Workshop
